@@ -1,0 +1,8 @@
+- mehl
+- oel
+- wasser
+- pfeffer
+- salz
+- schmand
+- schinken
+- zwiebeln
